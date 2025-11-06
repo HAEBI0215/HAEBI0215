@@ -12,8 +12,6 @@ I'm a high school **grade 1** student developer from Korea
 - Master **Unity** and **C#**
 - Begin learning **C++**
 - Develop and complete **1 simple portfolio game**
-- Implement **Boss AI algorithms** for the current Steam demo project  
-  → **Target:** Demo release by the end of this year
 ---
 
 ### 📘 Sophomore Year (2026)
