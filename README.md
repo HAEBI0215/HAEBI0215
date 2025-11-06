@@ -34,6 +34,7 @@ I'm a high school **grade 1** student developer from Korea
 
 ### 🔥 My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=windslime&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windslime&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=haebi0215&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haebi0215&layout=compact&theme=radical)
 
