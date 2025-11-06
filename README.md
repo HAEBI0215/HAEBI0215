@@ -7,6 +7,36 @@
 I'm a high school **grade 1** student developer from Korea
 ---
 
+## 🎯 Goals & Roadmap
+
+### 🕐 Until Winter Break
+- Master **Unity** and **C#**
+- Begin learning **C++**
+- Develop and complete **1 simple portfolio game**
+- Implement **Boss AI algorithms** for the current Steam demo project  
+  → **Target:** Demo release by the end of this year
+---
+
+### 📘 Sophomore Year (2026)
+
+#### 🧩 1st Semester
+- Create a **system-focused game** with minimal graphics and UI  
+  → Focus on solid gameplay mechanics and clean code structure
+
+#### 🎨 2nd Semester
+- Develop a **high-quality game demo** for portfolio and exhibitions  
+  → Aim for **game shows**, **portfolio showcases**, and **G-STAR**
+
+### 🚀 Additional Plans
+- Participate in **Game Jams** and **Game Expos**
+- Acquire the **Information Processing Certificate**
+- Earn **Unity Certification**
+
+### 🔥 Long-Term Vision
+Keep building and improving through every project.  
+Focus on creating **unique gameplay systems** and **clean, maintainable code** that represent my growth as a game developer.
+---
+
 - 🔭 I’m currently working on ...
   - A large Unity game project (Boss AI system), currently in development for a planned 2026 Steam release.
   
@@ -21,7 +51,7 @@ I'm a high school **grade 1** student developer from Korea
 
 - 📫 How to reach me: ...
   - Email : [windslimeoo@gmail.com](mailto:windslimeoo@gmail.com)
-  - Discord : Haebi0215
+  - Discord : haebi0215
 ---
 
 ### 🛠️ Languages and Tools
