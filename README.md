@@ -1,11 +1,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/804572292407361536)
 
 ## Hi there 👋
-
-<!--
-**HAEBI0215/HAEBI0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+---
 
 ### 👨‍💻 About Me
 I'm a high school **grade 1** student developer from Korea
@@ -46,4 +42,3 @@ I'm a high school **grade 1** student developer from Korea
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=windslime&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windslime&layout=compact&theme=radical)
 
--->
