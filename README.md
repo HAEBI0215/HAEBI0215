@@ -36,6 +36,11 @@ I'm a high school **grade 1** student developer from Korea
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+---
 
+### 🔥 My Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=windslime&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windslime&layout=compact&theme=radical)
 
 -->
