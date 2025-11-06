@@ -32,8 +32,8 @@ I'm a high school **grade 1** student developer from Korea
 - Earn **Unity Certification**
 
 ### 🔥 Long-Term Vision
-Keep building and improving through every project.  
-Focus on creating **unique gameplay systems** and **clean, maintainable code** that represent my growth as a game developer.
+- Keep building and improving through every project.  
+- Focus on creating **unique gameplay systems** and **clean, maintainable code** that represent my growth as a game developer.
 ---
 
 - 🔭 I’m currently working on ...
