@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=i'm%20Haebi0215)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haebi0215&show_icons=true&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=windslime)](https://solved.ac/haebi0215/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haebi0215)](https://solved.ac/haebi0215/)
 
 ### 👨‍💻 About Me
 I'm a high school **grade 1** student developer from Korea
