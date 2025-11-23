@@ -21,7 +21,7 @@ I'm a high school **grade 1** student developer from Korea
   - **Unity & Unreal Engine**
 
 - 📫 How to reach me: ...
-  - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:kimsh1691@gmail.com)
+  - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haebi0215@gmail.com)](mailto:haebi0215@gmail.com)
   - [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/804572292407361536)
 ---
 
