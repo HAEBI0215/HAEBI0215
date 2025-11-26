@@ -10,6 +10,7 @@ I'm a high school **grade 1** student developer from Korea
 
 - 🔭 I’m currently working on ...
   - Sephiroth project (Boss AI system), currently in development for a planned 2026 Steam release.
+  - hebi's fan game project(EVER-SKETCH)
   
 - 🌱 I’m currently learning ...
   - **C# (Main)**
