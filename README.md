@@ -20,6 +20,7 @@ I'm a high school **grade 1** student developer from Korea
 - 👀 I’m interested in ...
   - **Game develope**
   - **Unity & Unreal Engine**
+  - **rust**
 
 - 📫 How to reach me: ...
   - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haebi0215@gmail.com)](mailto:haebi0215@gmail.com)
