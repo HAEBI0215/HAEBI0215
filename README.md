@@ -39,6 +39,6 @@ I'm a high school **grade 1** student developer from Korea
   <summary>My Projects</summary>
 
   <blockquote>
-    EVER-SKETCH(hebi's fan game): [https://github.com/Word30210/Sakura](https://github.com/HAEBI0215/EVER-SKETCH)
+    EVER-SKETCH(hebi's fan game): [https://github.com/HAEBI0215/EVER-SKETCH]
   </blockquote>
 </details>
