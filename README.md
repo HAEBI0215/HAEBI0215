@@ -11,6 +11,7 @@ I'm a high school **grade 1** student developer from Korea
 - 🔭 I’m currently working on ...
   - Sephiroth project (Boss AI system), currently in development for a planned 2026 Steam release.
   - hebi's fan game project(EVER-SKETCH)
+  - AGK OP PROJRCT(total four diff game)
   
 - 🌱 I’m currently learning ...
   - C#
@@ -20,7 +21,7 @@ I'm a high school **grade 1** student developer from Korea
 - 👀 I’m interested in ...
   - **Game develope**
   - **Unity & Unreal Engine**
-  - **rust**
+  - **story**
 
 - 📫 How to reach me: ...
   - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haebi0215@gmail.com)](mailto:haebi0215@gmail.com)
