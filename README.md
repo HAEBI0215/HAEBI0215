@@ -33,6 +33,8 @@ I'm a Seoul Digitech high school **grade 1** student developer from Korea
 
   <blockquote>
     EVER-SKETCH(hebi's fan game): [https://github.com/HAEBI0215/EVER-SKETCH]
+    JJab_lorant(ddong game): [https://github.com/HAEBI0215/JJab_lorant]
+    Parkour(speedy): [https://github.com/HAEBI0215/Parkour]
   </blockquote>
 </details>
 
