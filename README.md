@@ -1,4 +1,4 @@
-
+7
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=i'm%20Haebi0215)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haebi0215&show_icons=true&theme=tokyonight)
@@ -46,6 +46,7 @@ I'm a Seoul Digitech high school **grade 1** student developer from Korea
 <center></center>
 
 ### Grade 1
+- Be the CEOs 본선 진출 및 동상
 
 ### Grade 2
 
