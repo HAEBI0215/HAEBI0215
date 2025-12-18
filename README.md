@@ -27,6 +27,7 @@ I'm a Seoul Digitech high school **grade 1** student developer from Korea
   - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haebi0215@gmail.com)](mailto:haebi0215@gmail.com)
   - [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/804572292407361536)
 ---
+![](https://gh-hits.nomadcoders.workers.dev/view?username=$Haebi0215)
 
 <details>
   <summary>My Projects</summary>
