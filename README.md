@@ -1,4 +1,3 @@
-7
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=i'm%20Haebi0215)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haebi0215&show_icons=true&theme=tokyonight)
@@ -37,6 +36,8 @@ I'm a Seoul Digitech high school **grade 1** student developer from Korea
     JJab_lorant(ddong game): [https://github.com/HAEBI0215/JJab_lorant]<br>
     Parkour(speedy): [https://github.com/HAEBI0215/Parkour]<br>
     Sdh25_Team_Project: [https://github.com/HAEBI0215/Sdh25_Team_Project]<br>
+    rythemgame: [https://github.com/HAEBI0215/rythemgame_gone]<br>
+    RandomMapGenerate: [https://github.com/HAEBI0215/RandomMapGenerate]<br>
   </blockquote>
 </details>
 
