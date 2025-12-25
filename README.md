@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=i'm%20Haebi0215)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=haebi0215&show_icons=true&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haebi0215)](https://solved.ac/haebi0215/)
+<div align="center">
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=haebi0215)](https://solved.ac/haebi0215)
+
+</div>
 
 ### About me
 I'm a Seoul Digitech high school **grade 1** student developer from Korea
@@ -29,7 +32,9 @@ I'm a Seoul Digitech high school **grade 1** student developer from Korea
   - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haebi0215@gmail.com)](mailto:haebi0215@gmail.com)
   - [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/804572292407361536)
 ---
-![](https://gh-hits.nomadcoders.workers.dev/view?username=$Haebi0215)
+### My State
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=haebi0215&show_icons=true&theme=tokyonight)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Haebi0215&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true)
 
 <details>
   <summary>My Projects</summary>
@@ -43,6 +48,8 @@ I'm a Seoul Digitech high school **grade 1** student developer from Korea
     RandomMapGenerate: [https://github.com/HAEBI0215/RandomMapGenerate]<br>
   </blockquote>
 </details>
+
+---
 
 <div align=center>
 <details>
