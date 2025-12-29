@@ -55,7 +55,7 @@ I'm a Seoul Digitech high school **grade 1** student developer from Korea
 <center></center>
 
 ### Grade 1
-2025 고교학생 Be the CEOs 본선 진출 및 동상<br>
+2025 고교학생 Be the CEO 본선 진출 및 동상<br>
 <img src="https://github.com/user-attachments/assets/b1458569-7fd2-47f2-bf09-0fdb88125a62" width="300"/>
 
 2025 포트폴리오 경진대회 장려상<br>
