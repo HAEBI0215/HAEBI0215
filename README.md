@@ -44,6 +44,7 @@ I'm a Seoul Digitech high school **grade 1** student developer from Korea
     Sdh25_Team_Project: [https://github.com/HAEBI0215/Sdh25_Team_Project]<br>
     rythemgame: [https://github.com/HAEBI0215/rythemgame_gone]<br>
     RandomMapGenerate: [https://github.com/HAEBI0215/RandomMapGenerate]<br>
+    2026 Games Skill Up: [https://github.com/HAEBI0215/2026_GameSkillUp]<br>
   </blockquote>
 </details>
 
