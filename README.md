@@ -62,6 +62,8 @@ I'm a Seoul Digitech high school **grade 1** student developer from Korea
 2025 포트폴리오 경진대회 장려상<br>
 <img width="163" height="22" alt="스크린샷 2025-12-23 085915" src="https://github.com/user-attachments/assets/03d15cae-43e2-4408-b238-c47033a26089" />
 
+### Grade 2
+
 </details>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer)
