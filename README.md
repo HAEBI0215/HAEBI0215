@@ -7,7 +7,7 @@
 </div>
 
 ### About me
-I'm a Seoul Digitech high school **grade 1** student developer from Korea
+I'm a Seoul Digitech high school **grade 2** student developer from Korea
 ---
 
 ### Work
