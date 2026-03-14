@@ -49,8 +49,16 @@ I'm a Seoul Digitech high school **grade 2** student developer from Korea
 </details>
 
 ---
-
 <div align=center>
+<details>
+  <summary>🎖 자격증 🎖</summary>
+<center></center>
+ITQ 자격증<br>
+<img width="400" src="https://github.com/user-attachments/assets/208b4061-0c08-468e-b670-9232bd0c49a8" />
+
+</details>
+
+<div align=center>  
 <details>
   <summary>🏆 수상 경력 🏆</summary>
 <center></center>
