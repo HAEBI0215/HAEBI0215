@@ -54,6 +54,21 @@ I'm a Seoul Digitech high school **grade 2** student developer from Korea
 
 <div align=center>  
 <details>
+  <summary>🏆 수료증 🏆</summary>
+<center></center>
+2025 부천대 제펫스튜디오 유니티 게임 제작과정 중급 수료증<br>
+<img width="400" src="https://github.com/user-attachments/assets/208b4061-0c08-468e-b670-9232bd0c49a8" />
+</details>
+
+<div align=center>  
+<details>
+  <summary>🏆 자격증 🏆</summary>
+<center></center>
+<img width="637" height="897" alt="스크린샷 2026-04-02 133610" src="https://github.com/user-attachments/assets/86a8b355-e9f4-479a-a229-bdde0b729415" /><br>
+</details>
+
+<div align=center>  
+<details>
   <summary>🏆 수상 경력 🏆</summary>
 <center></center>
 
@@ -63,9 +78,6 @@ I'm a Seoul Digitech high school **grade 2** student developer from Korea
 
 2025 포트폴리오 경진대회 장려상<br>
 <img width="163" height="22" alt="스크린샷 2025-12-23 085915" src="https://github.com/user-attachments/assets/03d15cae-43e2-4408-b238-c47033a26089" />
-
-2025 부천대 제펫스튜디오 유니티 게임 제작과정 중급 수료증<br>
-<img width="400" src="https://github.com/user-attachments/assets/208b4061-0c08-468e-b670-9232bd0c49a8" />
 
 ### Grade 2
 
