@@ -11,9 +11,9 @@ I'm a Seoul Digitech high school **grade 2** student developer from Korea
 ---
 
 ### Work
-  - contest game(gigdc, bic, g star)
+  - contest game(gigdc, bic)
   - hebi's fan game project(EVER-SKETCH)
-  - AGK PROJRCT(total four diff game)
+  - Personal Work(HyperSlasher)
   
 ### Languages
   <img src = "https://img.shields.io/badge/C%23-BF00FF?style=for-the-badge&logo=Csharp&logoColor=white"> <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <br>
@@ -33,20 +33,6 @@ I'm a Seoul Digitech high school **grade 2** student developer from Korea
 ### My State
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haebi0215&show_icons=true&theme=tokyonight)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Haebi0215&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true)
-
-<details>
-  <summary>My Projects</summary>
-
-  <blockquote>
-    EVER-SKETCH(hebi's fan game): [https://github.com/HAEBI0215/EVER_SKETCH]<br>
-    JJab_lorant(ddong game): [https://github.com/HAEBI0215/JJab_lorant]<br>
-    Speed Up!(rope action): [https://github.com/HAEBI0215/Speed_Up]<br>
-    Sdh25_Team_Project: [https://github.com/HAEBI0215/Sdh25_Team_Project]<br>
-    rythemgame: [https://github.com/HAEBI0215/rythemgame_gone]<br>
-    RandomMapGenerate: [https://github.com/HAEBI0215/RandomMapGenerate]<br>
-    2026 Games Skill Up: [https://github.com/HAEBI0215/2026_GameSkillUp]<br>
-  </blockquote>
-</details>
 
 ---
 
