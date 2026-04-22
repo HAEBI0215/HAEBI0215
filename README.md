@@ -12,7 +12,7 @@ I'm a Seoul Digitech high school **grade 2** student developer from Korea
 
 ### Work
   - contest game(gigdc, bic)
-  - hebi's fan game project(EVER-SKETCH)
+  - hebi's fan game project(EVER-SKETCH, Hebi : AfterLive)
   - Personal Work(HyperSlasher)
   
 ### Languages
