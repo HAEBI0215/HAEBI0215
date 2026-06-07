@@ -13,7 +13,7 @@ I'm a Seoul Digitech high school **grade 2** student developer from Korea
 ### Work
   - contest game(gigdc, bic)
   - hebi's fan game project(EVER-SKETCH, Hebi : AfterLive)
-  - Personal Work(HyperSlasher)
+  - Personal Work
   
 ### Languages
   <img src = "https://img.shields.io/badge/C%23-BF00FF?style=for-the-badge&logo=Csharp&logoColor=white"> <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
