@@ -29,15 +29,11 @@ I'm a Seoul Digitech high school **grade 2** student developer from Korea
   - [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/804572292407361536)
 ---
 ### My State
-<div align="center">
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HAEBI0215&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)
 
-![GitHub Stats](ttps://github-stats-extended.vercel.app/api?username=HAEBI0215&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=HAEBI0215&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=21600)
 
-![Top Languages](ttps://github-stats-extended.vercel.app/api/top-langs/?username=HAEBI0215&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=21600)
-
-![GitHub Streak](ttps://streak-stats.demolab.com?user=HAEBI0215&theme=tokyonight&hide_border=true)
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=HAEBI0215&theme=tokyonight&hide_border=true)
 
 ---
 
