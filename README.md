@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=i'm%20Haebi0215)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,100:6D7CFF&section=header&text=i'm%20Haebi0215&fontColor=ffffff)
 
 <div align="center">
 
@@ -11,24 +11,23 @@ I'm a Seoul Digitech high school **grade 2** student developer from Korea
 ---
 
 ### Work
-  - contest game(gigdc, bic)
+  - contest game
   - hebi's fan game project(EVER-SKETCH, Hebi : AfterLive)
-  - Personal Work
+  - steam game
   
 ### Languages
   <img src = "https://img.shields.io/badge/C%23-BF00FF?style=for-the-badge&logo=Csharp&logoColor=white"> <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 ### Tools
-  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)<br>
+  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)<br>
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-### React
+### Contact
   - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haebi0215@gmail.com)](mailto:haebi0215@gmail.com)
   - [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/804572292407361536)
 ---
-### My State
+### My Stats
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HAEBI0215&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=HAEBI0215&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=21600)
@@ -70,4 +69,4 @@ I'm a Seoul Digitech high school **grade 2** student developer from Korea
 
 </details>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,100:6D7CFF&section=footer)
