@@ -18,7 +18,7 @@ Interested in indie games, game jams, fan games, and commercial game development
 
 ## 🎮 Projects
 
-### 🔵 Focuse or Die
+### 🔵 Focus or Die
 > 🏆 Contest Game
 
 ### 🌸 Hebi : AfterLive
