@@ -143,7 +143,8 @@ Interested in indie games, game jams, fan games, and commercial game development
 
 ### 🌸 2학년
 
-Coming Soon...
+**SDHS26 하계 게임잼**<br>
+[3위](https://github.com/HAEBI0215/2026SDHS_GameJam)
 
 </details>
 
