@@ -22,7 +22,7 @@ Interested in indie games, game jams, fan games, and commercial game development
 > 🏆 Contest Game
 
 ### 🌸 Hebi : AfterLive
-> 💙 Hebi Fan Game Project
+> 💙 Hebi Fan Game
 
 ### ✨ Perfectly Legal Magic
 > 🎮 Steam Game
