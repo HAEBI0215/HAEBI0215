@@ -2,11 +2,11 @@
 
 <div align="center">
 
-### 🎮 Game Programmer · 💙 Hebi Fan · ✨ Student Developer
+### 🎮 Game Programmer · ✨ Student Developer
 
 A **2nd-year student developer** at Seoul Digitech High School in Korea.  
-I mainly work on games using **Unity & C#**, and I love **VTuber Hebi**.  
-Interested in indie games, game jams, fan games, and commercial game development.
+I mainly work on games using **Unity & C#**.  
+Interested in indie games, game jams, and commercial game development.
 
 <br>
 
