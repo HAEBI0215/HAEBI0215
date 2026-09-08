@@ -8,6 +8,8 @@ A **2nd-year student developer** at Seoul Digitech High School in Korea.
 I mainly work on games using **Unity & C#**.  
 Interested in indie games, game jams, and commercial game development.
 
+🌱 I’m currently learning **Luau**
+
 <br>
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=haebi0215)](https://solved.ac/haebi0215)
