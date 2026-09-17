@@ -6,7 +6,7 @@
 
 A **2nd-year student developer** at Seoul Digitech High School in Korea.  
 I mainly work on games using **Unity & C#**.  
-Interested in indie games, game jams, and commercial game development.
+Interested in game jams, and commercial game development.
 
 🌱 I’m currently learning **Luau**
 
